@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     background-color: rgb(35, 35, 35);
     color:aliceblue;
     font-family: Arial, sans-serif;
@@ -89,69 +88,17 @@ main{
 
 a{
     color: rgb(152, 152, 255);
-=======
-  background-color: rgb(35, 35, 35);
-  padding-left: 5%;
-  padding-right: 30%;
-}
-
-h1{
-    font-family: "Archivo Black", sans-serif;
-    font-weight: 700;
-    color: rgb(195, 114, 192);
-    font-style: normal;
-}
-
-h2{
-
-    color:rgb(130, 224, 255)
-
-}
-
-h3{color:aliceblue}
-
-p{
-    color:aliceblue;
-}
-
-img{
-  width: 30%;
-  height: auto;
-}
-
-#suministros-img{
-  width: 100%;
-  height: auto;
-}
-
-ul{
-    color: rgb(147, 195, 235)
->>>>>>> 6bfd2edecfd39442654fde24a5a67952f5473187
 }
 
 .textoSubrayado {
     text-decoration: underline;
 }
 
-<<<<<<< HEAD
 div.album {
-=======
-a{
-    color: rgb(152, 152, 255);
-}
-
-form {
-    color:aliceblue;
-}
-
-div.album {
-
->>>>>>> 6bfd2edecfd39442654fde24a5a67952f5473187
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: stretch;
-<<<<<<< HEAD
     gap: 1vw;
 
 }
@@ -159,24 +106,10 @@ div.album {
 div.album img {
     width: 45vw;
     height: auto;
-=======
-    gap: 5px;
-
-    /*flex-wrap: wrap;
-    */
-}
-
-div.album img {
-
-    width: 24%;
-    height: auto;
-
->>>>>>> 6bfd2edecfd39442654fde24a5a67952f5473187
 }
 
 
 footer p{
-<<<<<<< HEAD
     text-align: center;
     color: gray;
 }
@@ -239,17 +172,3 @@ form {
     }    
 
 }
-=======
- color: gray;
-}
-
-/*Ajustes para dispositivos móviles*/
-@media (max-width: 600px) {
-    img{
-        width: 70%;
-    }
-    #suministros-img{
-        content: url("Assets/ImagenParaMoviles.png")
-    }
-}
->>>>>>> 6bfd2edecfd39442654fde24a5a67952f5473187
